@@ -18,7 +18,7 @@ export default function Footer() {
                 id="contactus"
               >
                 <form
-                  action="https://formsubmit.co/akashgupta@traffury.in"
+                  action="https://formsubmit.co/mdkhurshid@traffury.in"
                   method="post"
                 >
                   <div className="flex">
