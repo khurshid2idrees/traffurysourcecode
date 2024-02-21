@@ -18,11 +18,12 @@ export default function Footer() {
                 id="contactus"
               >
                 <form
-                  action="https://formsubmit.co/umarkhurshid3@gmail.com"
+                  action="https://formsubmit.co/umarkhurshid@traffury.in"
                   // action="https://formsubmit.co/rajatkrezzy@gmail.com"
                   method="post"
                 >
                   <div className="flex">
+                  <input type="hidden" name="_cc" value="mdkhurshid@traffury.in"/>
                     <input
                       id="email"
                       name="email"
