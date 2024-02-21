@@ -54,7 +54,7 @@ export default function Footer() {
 
           <div class="flex items-center justify-between">
             <a href="#">
-              {/* <img class="w-auto h-7" src={trflogo} alt="" /> */}
+              <img class="w-auto h-7" src={trflogo} alt="" />
             </a>
 
             <div class="flex -mx-2">
