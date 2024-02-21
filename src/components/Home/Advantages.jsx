@@ -97,7 +97,7 @@ export default function Advantages() {
         </div>
       </div>
 
-      {/* Desktop view end         */}
+      {/* Desktop view end */}
 
       {/* Mobile view start  */}
 

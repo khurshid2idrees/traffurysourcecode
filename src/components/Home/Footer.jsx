@@ -18,7 +18,7 @@ export default function Footer() {
                 id="contactus"
               >
                 <form
-                  action="https://formsubmit.co/rajatkrezzy@gmail.com"
+                  action="https://formsubmit.co/akashgupta@traffury.in"
                   method="post"
                 >
                   <div className="flex">
@@ -31,6 +31,11 @@ export default function Footer() {
                       placeholder="Email Address"
                     />
                     <input type="hidden" name="_captcha" value="false"></input>
+                    <input
+                      type="hidden"
+                      name="_subject"
+                      value="New submission on Traffury Website!"
+                    ></input>
 
                     <input
                       type="hidden"
