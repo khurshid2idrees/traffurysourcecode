@@ -18,7 +18,7 @@ export default function Footer() {
                 id="contactus"
               >
                 <form
-                  action="https://formsubmit.co/umarkhurshid3@gmail.com"
+                  action="https://formsubmit.co/mdkhurshid@traffury.in"
                   // action="https://formsubmit.co/rajatkrezzy@gmail.com"
                   method="post"
                 >
@@ -26,7 +26,7 @@ export default function Footer() {
                     <input
                       type="hidden"
                       name="_cc"
-                      value="mdkhurshid@traffury.in"
+                      value="akashgupta@traffury.in,support@traffury.in"
                     />
                     <input
                       id="email"
